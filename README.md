@@ -2,7 +2,7 @@
 
 ---
 
-**Projecte de l'assignatura d'Algoritmia, Q2 2022/23**
+**Projecte de l'assignatura d'Algoritmia (UPC-FIB), Q2 2022/23**
 
 Integrants del grup:
 
